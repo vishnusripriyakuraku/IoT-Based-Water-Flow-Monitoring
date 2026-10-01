@@ -92,8 +92,8 @@ IoT-Based-Water-Flow-Monitoring/
 │   └── circuit_diagram.png
 ├── Documentation/
 │   └── project_report.pdf
-└── Images/
-    └── project_setup.jpg
+└── flow chart/
+    └── flow chart.png
 ```
 
 ## Conclusion
